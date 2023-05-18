@@ -1,6 +1,6 @@
 # RaspberryPi-Factory-Reset
 
-Factory Reset Your Raspbian OS
+# Factory Reset Your Raspbian OS
 Description:
 In the normal process to reset or restore the Raspberry Pi OS (Raspbian), you need to unplug the SD Card, format the card, re-write the OS image and plug it back again. If you are doing some testing or development, it can be a pain to go over this process again. This git contains the scripts using which you can create a Raspberry Pi OS image which has an option to factory reset the OS without plugging out the SD Card.
 
